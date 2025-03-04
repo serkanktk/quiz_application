@@ -1,6 +1,7 @@
 # quiz_application
 
-![Ekran görüntüsü 2025-03-04 153330](https://github.com/user-attachments/assets/a89cc30e-5252-4d24-b4fd-86
+
+![Ekran görüntüsü 2025-03-04 153330](https://github.com/user-attachments/assets/847b39d6-a1b6-4915-92a4-09b264a5d6c9)
 
 
 ![Ekran görüntüsü 2025-03-04 153353](https://github.com/user-attachments/assets/a51a6277-7878-4a74-b21d-5ac1a4255e00)
